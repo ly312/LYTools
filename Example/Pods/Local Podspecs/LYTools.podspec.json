@@ -1,0 +1,22 @@
+{
+  "name": "LYTools",
+  "version": "0.0.1",
+  "summary": "A description of LYTools",
+  "description": "A long description of LYTools here.",
+  "homepage": "https://github.com/ly312/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2554338284@qq.com": "2554338284@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ly312/LYTools.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LYTools/Classes/**/*"
+}
